@@ -1,0 +1,23 @@
+#pessoaNoComputador{
+    max-width:1333px;
+    max-height:585px;
+}
+
+nav {
+   
+    display: flex;
+
+}
+
+.menu {
+    
+    display: flex;
+}
+
+.account {
+    
+    display: flex;
+    
+}
+
+
